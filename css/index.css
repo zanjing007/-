@@ -6,6 +6,14 @@ dd {
   padding: 0px;
 }
 
+.title_music {
+  font-size: 18px;
+  font-family: "微软雅黑";
+  padding-left: 18px;
+  font-weight: bold;
+  color: #d21414d6;
+}
+
 .wrap {
   position: fixed;
   left: 0;
